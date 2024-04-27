@@ -45,7 +45,6 @@ python-dotenv
 pyttsx3
 pytweening
 pytz
-pywin32
 requests
 setuptools
 six
