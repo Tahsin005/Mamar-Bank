@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 # Mamar-Bank
 >>>>>>> 52cee06193fd65a4c2c70b01c54dbe0c8b6fe237
@@ -20,8 +20,7 @@ Can delete account, transaction history
 Can approve loan and email will be sent to that user
 
 Live Link
-<<<<<<< HEAD
 https://mamar-bank-7isl.onrender.com/
 =======
 [Mamar_Bank](https://mamar-bank-7isl.onrender.com/)
->>>>>>> 52cee06193fd65a4c2c70b01c54dbe0c8b6fe237
+
